@@ -1,0 +1,38 @@
+body{
+	font-size: 16px;
+	font-family: 'Roboto', sans-serif;
+	background-color: #FFF8DC;
+
+}
+
+*, *::before, *::after{
+	box-sizing: border-box;
+	margin: 0;
+	padding: 0;
+}
+
+img{
+	max-width: 100%;
+}
+
+ h1{
+ 	padding-top: 2rem;
+ }
+
+div{
+	margin: 1rem 1rem 1rem 1rem;
+}
+
+.tartalom{
+	border: 2px solid #8B4513;
+	border-radius: 1rem;
+	padding: 1rem 1rem 1rem 1rem;
+	margin-left: 2rem;
+	margin-right: 2rem;
+	text-align: justify;
+	vertical-align: text-top;
+}
+
+footer{
+	margin: 1rem 1rem;
+}

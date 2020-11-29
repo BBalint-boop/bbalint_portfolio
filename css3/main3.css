@@ -1,0 +1,57 @@
+body{
+	font-size: 16px;
+	font-family: 'Roboto', sans-serif;
+	background-color: #FFF8DC;
+
+}
+
+*, *::before, *::after{
+	box-sizing: border-box;
+	margin: 0;
+	padding: 0;
+}
+
+img{
+	max-width: 100%;
+}
+ h1{
+ 	padding-top: 2rem;
+ }
+
+ details{
+ 	margin-left: 2rem;
+ 	margin-top: 2rem;
+ }
+
+
+
+.adat{
+	border: 2px solid black;
+	padding: .5rem 2rem .5rem 2rem;
+	margin: .5rem .5rem;
+	border-radius: 2rem;
+	background-color: #DEB887 ;
+
+}
+
+table{
+ 	border: 2px solid #8B4513;
+	border-radius: 1rem;
+	margin: 1rem 2rem 1rem 2rem
+ }
+
+ .adatO{
+	border: 2px solid black;
+	padding: .5rem 2rem .5rem 2rem;
+	margin: .5rem .5rem;
+	border-radius: 2rem;
+	transition: .3s;
+	background-color: #DEB887 ;
+	text-align: justify;
+}
+
+footer{
+	padding: .5rem 2rem .5rem 2rem;
+	margin: 1rem ;
+	border-radius: 2rem;
+}
